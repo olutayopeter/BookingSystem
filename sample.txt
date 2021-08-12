@@ -1,0 +1,11 @@
+NUMBER 1
+originalString: ABCDERFGHIJKLMNOPQRSTUVWXYZ123456789P
+encryptedString: Fln33+TlEz6NBV8SaOvRfs51MAOu7nvRowm63/ZvI0N+i5fJedJs1K95Q5itQsrx
+decryptedString: ABCDERFGHIJKLMNOPQRSTUVWXYZ123456789P
+
+
+
+NUMBER 2
+original String: {"transactionLocation":"IRO,T,17190001059661,LaNG","transactionReference":"CR|ZIB|FBN|150620201439|402452","destinationAccountNumber":"1009399421","sourceAccountNumber":"NGN00441110005","destinationAccountName":"UGWU JUACHUKWU","debitSourceInstitutionAccount":"true","requestTime":"15-06-2020 14:39:56","destinationInstitutionCode":"FBN","transactionAmount":3250000,"narration":"IRO,T,17190001059661,LaNG","sourceInstitutionCode":"TAM","currencyCode":"NGN","sourceAccountName":"628051********7958","channelCode":"2"}
+encrypted String: BH1cm3v/O5VpUFmuC8hYkOxd6UqZx3O4rk+GxGaqSjT++OYMaQNvf473BGagj9D7Hyad0O/3xMBQShRHj4NqwvPWU6zwygRu79IiUnjqAcfz0atnop970fiqAYczS7SVAX3xnLx3ecMgIJXaH9vRupJVwtM+ptqshjqhkdQZ2+dvvTd+LOIxW5+A+V4R1zDN7LvJGjF/Tzgr2zbD4pc7eW/vuW5HhGgmRARSjREM7v9rbLvbfPBpq/sIF3fBiCpNXjLzS0K3y48gJ0FYSxCrZ5yp8Mm8trOjmVrG9qIYoF5T3BzTetM2SQMiJZO547EXxrxozN8HH/oG3Q0GJ3ZFM4VQ13v6PYJO5kqYz7ey7NNvtIT5yNyVbnmdBOhj+nZAFmZ20oSjQ/zs93Pdpwv3fmWsyHl4hN/70Eb9DJmKPenY7atjwPG4hKIYkcm9bvvKmVEXrmazt7AmaWLnIzUT1g0MpxPNH6Jodt7jS+3dFJvINK/ucks7lRCZE+w3G7j/o+u8LX9aX+lplmemP39B4rDpyc2bEoPkyHvxmY1SXTJSYZgIlhEQ2onxWOzZAwsiWvju9bHpn1LaIHyPJfHVzNZlXTxxteHEy26c3S7kuKUN1fLfUCQ94lY1iRTOuJKUSiDTATy0Tr7AyJypymCaR3UQGAFUDAHSdM9epzThzIhNqF5MX3w7IaV7nNWSu5vF
+decrypted String: {"transactionLocation":"IRO,T,17190001059661,LaNG","transactionReference":"CR|ZIB|FBN|150620201439|402452","destinationAccountNumber":"1009399421","sourceAccountNumber":"NGN00441110005","destinationAccountName":"UGWU JUACHUKWU","debitSourceInstitutionAccount":"true","requestTime":"15-06-2020 14:39:56","destinationInstitutionCode":"FBN","transactionAmount":3250000,"narration":"IRO,T,17190001059661,LaNG","sourceInstitutionCode":"TAM","currencyCode":"NGN","sourceAccountName":"628051********7958","channelCode":"2"}
